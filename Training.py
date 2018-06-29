@@ -1,7 +1,7 @@
 '''
 Created on Aug 11, 2017
 
-@author: v-wangke
+@author: wangke
 '''
 
 from tensorflow.contrib import rnn
